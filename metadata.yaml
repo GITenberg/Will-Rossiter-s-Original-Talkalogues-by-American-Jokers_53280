@@ -1,0 +1,24 @@
+_repo: Will-Rossiter-s-Original-Talkalogues-by-American-Jokers_53280
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Rossiter, Will
+    birthdate: 1867
+    deathdate: 1954
+    gutenberg_agent_id: '45676'
+    url: http://www.gutenberg.org/2009/agents/45676
+description: ''
+gutenberg_issued: '2016-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'American wit and humor'
+- GITenberg
+title: Will Rossiter's Original Talkalogues by American Jokers
+url: http://www.gutenberg.org/ebooks/53280
